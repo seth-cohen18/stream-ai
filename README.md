@@ -6,6 +6,8 @@ Live at **[streamaiworkout.com](https://streamaiworkout.com)**
 
 Stream AI counts your reps, catches form mistakes, and coaches you in real time. It runs in the browser on a phone or laptop. No wearables and no trainer.
 
+![Stream AI landing page](assets/landing-hero.png)
+
 > The source code is private while the product is in pre-launch. This repo is the public overview: what it does, how it's built, and what I decided along the way.
 
 ## What it does
